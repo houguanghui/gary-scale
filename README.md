@@ -1,2 +1,0 @@
-# gary-scale
-blog
